@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: NNproject
+Version: 0.1.0
+Summary: Default template for PDM package
+Author-email: Jhonatan Felix <jhonyrf@gmail.com>
+License: MIT
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=2.4.2
+Requires-Dist: matplotlib>=3.10.8
+
+# ClassesLab
+Repository to test and explain concepts for classes.

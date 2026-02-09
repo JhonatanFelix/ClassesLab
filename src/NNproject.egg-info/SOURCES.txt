@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/NNproject.egg-info/PKG-INFO
+src/NNproject.egg-info/SOURCES.txt
+src/NNproject.egg-info/dependency_links.txt
+src/NNproject.egg-info/requires.txt
+src/NNproject.egg-info/top_level.txt
+src/nnproject/__init__.py
